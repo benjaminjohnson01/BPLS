@@ -1,4 +1,6 @@
 # BPLS
 Ben Path Length Scanner
 
-Using code generated with GitHub Copilot.
+Code generated with GitHub Copilot.
+
+Built for macOS.
